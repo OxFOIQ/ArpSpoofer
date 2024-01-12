@@ -15,8 +15,7 @@
 
 ## Installation
 
-- Clone the repository:
-- https://github.com/MedAmyyne/ArpSpoofer.git
+git clone https://github.com/MedAmyyne/ArpSpoofer.git
 
 ## Help
 
