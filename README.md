@@ -23,9 +23,9 @@ Sudo python3 PhantomFog.py --help
 
 ## Options
 
--t1, --target2: Specify the first target IP.
+-t1, --target1: Specify the first target IP.
 
--t2, --target1: Specify the second target IP.
+-t2, --target2: Specify the second target IP.
 
 ## Usage
 
