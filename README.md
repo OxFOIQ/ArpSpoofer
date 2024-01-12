@@ -31,9 +31,4 @@ Sudo python3 PhantomFog.py --help
 
 ## Usage
 
-sudo python3 PhantomFog.py -t1 <first target> -t2 <second target>
-
-
-
-
-
+sudo python3 PhantomFog.py -t1 <first_target> -t2 <second_target>
