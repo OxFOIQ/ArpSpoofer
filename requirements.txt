@@ -1,0 +1,4 @@
+pyfiglet
+argparse
+scapy-python3
+python3
