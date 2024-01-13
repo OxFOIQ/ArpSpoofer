@@ -1,4 +1,4 @@
-# PhantomFog
+# Sw1ndle
 
 Arp Spoofing tool written in python , redirects packets from a target host (or all hosts) on the LAN intended for another host on the LAN by forging ARP replies.
 
@@ -21,7 +21,7 @@ git clone https://github.com/MedAmyyne/ArpSpoofer.git
 
 ## Help
 
-Sudo python3 PhantomFog.py --help
+Sudo python3 Sw1ndle.py --help
 
 ## Options
 
@@ -31,4 +31,4 @@ Sudo python3 PhantomFog.py --help
 
 ## Usage
 
-sudo python3 PhantomFog.py -t1 <first_target> -t2 <second_target>
+sudo python3 Sw1ndle.py -t1 <first_target> -t2 <second_target>
