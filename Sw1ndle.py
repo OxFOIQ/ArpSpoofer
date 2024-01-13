@@ -30,7 +30,7 @@ def spoof (target_ip , spoof_ip) :
 
 if __name__ == "__main__" :
 
-    banner = pyfiglet.figlet_format("PhantomFog")
+    banner = pyfiglet.figlet_format("Sw1ndle")
     print(banner)
 
     options = get_Argument()
