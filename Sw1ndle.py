@@ -32,7 +32,8 @@ if __name__ == "__main__" :
 
     banner = pyfiglet.figlet_format("Sw1ndle")
     print(banner)
-
+    print("-"*29+ "By MedAmyyne" + "-"*29)
+    print("="*70)
     options = get_Argument()
     nbre_of_packet = 0
     try :
